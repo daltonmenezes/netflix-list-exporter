@@ -4,7 +4,7 @@
 # Preview
 
 # Extensions
-- [Firefox](soon)
+- Firefox (soon)
 - Chrome (soon)
 
 # License
