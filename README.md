@@ -1,3 +1,4 @@
+<p align="center"><img src="https://i.imgur.com/pTgqeTX.png" alt="Netflix List Exporter logo" /></p>
 <h1 align="center">Netflix List Exporter</h1>
 <p align="center">:dizzy: An Extension to export your 'My list' from Netflix to Clipboard area and share with your friends.</p>
 
