@@ -3,6 +3,7 @@
 <p align="center">:dizzy: An Extension to export your 'My list' from Netflix to Clipboard area and share with your friends.</p>
 
 # Preview
+<p align="center"><img src="https://i.imgur.com/3bwnOX9.png" alt="screenshot"></p>
 
 # Extensions
 - [Firefox](https://addons.mozilla.org/pt-BR/firefox/addon/netflix-list-button-exporter/)
