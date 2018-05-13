@@ -1,0 +1,12 @@
+popup-copy-my-list {
+  margin-left: 10px;
+  background-color: #484848;
+  padding: 5px;
+  vertical-align: super;  
+  transition: all 0.8s ease-in-out;
+}
+
+.hide-popup {
+  opacity: 0;
+  padding: 10px;
+}
