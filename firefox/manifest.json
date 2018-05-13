@@ -1,0 +1,30 @@
+{
+  "name": "Netflix List Exporter",
+  "description": "__MSG_extensionDescription__",
+  "version": "1.0",
+  "homepage_url": "https://github.com/daltonmenezes/netflix-list-exporter",
+  "manifest_version": 2,
+  "content_scripts": [
+    {
+      "matches": ["*://*.netflix.com/*"],
+      "css": [
+        "css/button.css", 
+        "css/popup.css"
+      ],
+      "js": [
+        "content_scripts/myListGenerator.js",
+        "content_scripts/ui/button.js",
+        "content_scripts/ui/popup.js",
+        "content_scripts/events/scroll.js",
+        "content_scripts/events/click.js",
+        "content_scripts/events/clipboard.js",
+        "content_scripts/observer.js"        
+      ]
+    }
+  ],
+  "permissions": [
+    "activeTab",
+    "clipboardWrite"
+  ],
+  "default_locale": "en"
+}

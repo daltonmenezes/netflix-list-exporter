@@ -1,0 +1,12 @@
+copy-my-list {
+  color: white;
+  background-color: #dd0202;
+  vertical-align: super;
+  padding: 5px;
+  cursor: pointer;
+  transition: background-color 0.4s ease-in-out;
+}
+
+copy-my-list:hover {
+  background-color: #690303;
+}
