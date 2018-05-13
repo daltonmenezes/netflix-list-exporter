@@ -7,7 +7,7 @@
 
 # Extensions
 - [Firefox](https://addons.mozilla.org/pt-BR/firefox/addon/netflix-list-button-exporter/)
-- Chrome (soon)
+- [Chrome](https://github.com/daltonmenezes/netflix-list-exporter/blob/master/CHROME_INSTRUCTIONS.md)
 
 # License
 [MIT License](https://github.com/daltonmenezes/netflix-list-exporter/blob/master/LICENSE)
