@@ -1,6 +1,9 @@
 <p align="center"><img src="https://i.imgur.com/pTgqeTX.png" alt="Netflix List Exporter logo" /></p>
 <h1 align="center">Netflix List Exporter</h1>
-<p align="center">:dizzy: An Extension to export your 'My list' from Netflix to Clipboard area and share with your friends.</p>
+<p align="center">:dizzy: An Extension to export your 'My list' from Netflix to Clipboard area and share with your friends.
+<br><br>
+<a href="https://paypal.me/daltonmenezes"><img src="https://img.shields.io/badge/donate-green.svg" alt="donate" /></a>
+</p>
 
 # Preview
 <p align="center"><img src="https://i.imgur.com/3bwnOX9.png" alt="screenshot"></p>
