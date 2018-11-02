@@ -2,8 +2,8 @@ const myListGenerator = () => {
   let list = ''
   
   document
-    .querySelectorAll('.video-preload-title-label')
-    .forEach(name => list += `${name.textContent} \n`)
+    .querySelectorAll('.slider-refocus')
+    .forEach(name => list += `${name.getAttribute('aria-label')} \n`)
  
   return list
 }
