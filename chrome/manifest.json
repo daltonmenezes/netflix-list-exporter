@@ -12,7 +12,7 @@
         "css/popup.css"
       ],
       "js": [
-        "content_scripts/myListGenerator.js",
+        "content_scripts/my-list-generator.js",
         "content_scripts/ui/button.js",
         "content_scripts/ui/popup.js",
         "content_scripts/events/scroll.js",
