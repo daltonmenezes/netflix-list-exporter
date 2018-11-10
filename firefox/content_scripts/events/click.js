@@ -1,7 +1,7 @@
-const clickEvent = () => {
+const clickEvent = ({ name }) => {
   document
-    .querySelector('copy-my-list')
+    .querySelector(name)
     .addEventListener('click', () => document.execCommand('copy'))
 }
 
-exportFunction(clickEvent, window, {defineAs:'clickEvent'})
+exportFunction(clickEvent, window, { defineAs: 'clickEvent' })

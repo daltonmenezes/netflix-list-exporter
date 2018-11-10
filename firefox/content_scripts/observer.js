@@ -1,12 +1,19 @@
 observer = new MutationObserver(mutations => {
   if (window.location.href === 'https://www.netflix.com/browse/my-list' && !document.querySelector('copy-my-list')) {
-      buttonRender()
+      
+      copyMyList = {
+        name: 'copy-my-list',
+        i18n: 'copyThisListButtonLabel'
+      }
+
+      buttonRender(copyMyList)
       popupRender()
-      clickEvent()
+      clickEvent(copyMyList)
       clipboardEvent()
       window.setInterval(autoScroll(), 50)
   }
-}).observe(document, {
+})
+.observe(document, {
   childList: true,
   subtree: true
 })

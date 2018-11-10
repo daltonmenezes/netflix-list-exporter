@@ -13,7 +13,7 @@
       ],
       "js": [
         "content_scripts/my-list-generator.js",
-        "content_scripts/ui/button.js",
+        "content_scripts/ui/button-render.js",
         "content_scripts/ui/popup.js",
         "content_scripts/events/scroll.js",
         "content_scripts/events/click.js",

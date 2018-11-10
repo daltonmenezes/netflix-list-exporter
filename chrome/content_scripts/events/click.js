@@ -1,5 +1,5 @@
-const clickEvent = () => {
+const clickEvent = ({ name }) => {
   document
-    .querySelector('copy-my-list')
+    .querySelector(name)
     .addEventListener('click', () => document.execCommand('copy'))
 }
