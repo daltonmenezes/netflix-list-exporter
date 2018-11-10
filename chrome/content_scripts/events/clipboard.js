@@ -1,5 +1,5 @@
 const clipboardEvent = () => {
-  let popup = document.querySelector('popup-copy-my-list')
+  let popup = document.querySelector('nle-popup')
   
   document.addEventListener('copy', event => {
     event.clipboardData.setData('text/plain', listHandler())
