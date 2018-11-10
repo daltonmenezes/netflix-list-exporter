@@ -1,4 +1,4 @@
-copy-my-list {
+.nle-button {
   color: white;
   background-color: #dd0202;
   vertical-align: super;
@@ -7,6 +7,6 @@ copy-my-list {
   transition: background-color 0.4s ease-in-out;
 }
 
-copy-my-list:hover {
+nle-button:hover {
   background-color: #690303;
 }
