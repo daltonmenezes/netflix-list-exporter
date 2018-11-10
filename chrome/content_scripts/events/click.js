@@ -1,5 +1,8 @@
 const clickEvent = ({ name }) => {
   document
     .querySelector(name)
-    .addEventListener('click', () => document.execCommand('copy'))
+    .addEventListener('click', () => {
+      window.nleListCreator = name
+      document.execCommand('copy')
+    })
 }
