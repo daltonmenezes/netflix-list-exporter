@@ -1,12 +1,19 @@
 .nle-button {
   color: white;
-  background-color: #dd0202;
   vertical-align: super;
   padding: 5px;
   cursor: pointer;
   transition: background-color 0.4s ease-in-out;
 }
 
-nle-button:hover {
+.nle-button:nth-child(odd) {
+  background-color: #383838;
+}
+
+.nle-button:nth-child(even) {
+  background-color: #dd0202;
+}
+
+.nle-button:nth-child(odd):hover, .nle-button:nth-child(even):hover {
   background-color: #690303;
 }
