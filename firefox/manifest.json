@@ -18,6 +18,7 @@
         "content_scripts/ui/popup-render.js",
         "content_scripts/events/scroll.js",
         "content_scripts/events/click.js",
+        "content_scripts/events/popup.js",
         "content_scripts/events/clipboard.js",
         "content_scripts/observer.js"        
       ]
