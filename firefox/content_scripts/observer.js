@@ -3,11 +3,6 @@ observer = new MutationObserver(mutations => {
       
       window.nleListCreator = ''
 
-      myList = {
-        name: 'copy-my-list',
-        i18n: 'copyThisListButtonLabel'
-      }
-
       buttonRender(myList)
       clickEvent(myList)
 
