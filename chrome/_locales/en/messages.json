@@ -1,11 +1,20 @@
 {
   "extensionDescription": {
-    "message": "An Extension to export your 'My list' from Netflix to Clipboard area and share with your friends."
+    "message": "An Extension to export your lists from Netflix to Clipboard area and share with your friends."
   },
   "copyThisListButtonLabel": {
     "message": "Copy this list"
   },
+  "copyThumbsUpListButtonLabel": {
+    "message": "Copy 👍 list"
+  },
+  "copyThumbsDownListButtonLabel": {
+    "message": "Copy 👎 list"
+  },
   "copiedMessage": {
     "message": "Copied to clipboard area!"
+  },
+  "errorMessage": {
+    "message": "Error, please try again or contact the developer about it."
   }
 }

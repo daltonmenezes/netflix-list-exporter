@@ -1,14 +1,10 @@
-const clipboardEvent = () => {
-  let popup = document.querySelector('nle-popup')
-  
-  document.addEventListener('copy', event => {
-    event.clipboardData.setData('text/plain', listHandler())
-    event.preventDefault()
-    
-    popup.classList.remove('hide-popup')
-    
-    setTimeout(() => {
-      popup.classList.add('hide-popup')
-    }, 3000)
+const clipboardEvent = () => (
+  document.addEventListener('copy', () => {
+    const isPromise = Object.prototype.toString.call(listHandler()) === '[object Promise]'
+
+    isPromise
+      ? listHandler()
+          .then(list => writeToClipboard(list))
+      : writeToClipboard(listHandler())
   })
-}
+)

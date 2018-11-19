@@ -1,11 +1,20 @@
 {
   "extensionDescription": {
-    "message": "Uma extensão para exportar a 'Minha lista' da Netflix para a área de transferência e compartilhar com seus amigos."
+    "message": "Uma extensão para exportar suas listas da Netflix para a área de transferência e compartilhar com seus amigos."
   },
   "copyThisListButtonLabel": {
     "message": "Copiar esta lista"
   },
+  "copyThumbsUpListButtonLabel": {
+    "message": "Copiar a lista 👍"
+  },
+  "copyThumbsDownListButtonLabel": {
+    "message": "Copiar a lista 👎"
+  },
   "copiedMessage": {
     "message": "Copiado para a área de transferência!"
+  },
+  "errorMessage": {
+    "message": "Erro, por favor, tente novamente ou entre em contato com o desenvolvedor sobre isso."
   }
 }
