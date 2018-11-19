@@ -5,6 +5,7 @@ const listHandler = () => {
   switch (creator) {
     case 'my-list': return myListCreator()
     case 'thumbs-up-list': return thumbsListCreator(thumb)
+    case 'thumbs-down-list': return thumbsListCreator(thumb)
   }
 }
 

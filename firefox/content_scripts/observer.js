@@ -11,6 +11,9 @@ observer = new MutationObserver(mutations => {
       buttonRender(thumbsUpList)
       clickEvent(thumbsUpList)
 
+      buttonRender(thumbsDownList)
+      clickEvent(thumbsDownList)      
+
       popupRender()
       clipboardEvent()
 

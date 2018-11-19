@@ -6,7 +6,10 @@
     "message": "Copy this list"
   },
   "copyThumbsUpListButtonLabel": {
-    "message": "Copy 👍  list"
+    "message": "Copy 👍 list"
+  },
+  "copyThumbsDownListButtonLabel": {
+    "message": "Copy 👎 list"
   },
   "copiedMessage": {
     "message": "Copied to clipboard area!"

@@ -18,6 +18,7 @@
         "content_scripts/ui/button-render.js",
         "content_scripts/ui/buttons/my-list.js",
         "content_scripts/ui/buttons/thumbs-up-list.js",
+        "content_scripts/ui/buttons/thumbs-down-list.js",
         "content_scripts/ui/popup-render.js",
         "content_scripts/events/scroll.js",
         "content_scripts/events/click.js",
