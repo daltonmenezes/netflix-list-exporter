@@ -7,3 +7,5 @@ const myListCreator = () => {
  
   return list  
 }
+
+exportFunction(myListCreator, window, { defineAs: 'myListCreator' })
