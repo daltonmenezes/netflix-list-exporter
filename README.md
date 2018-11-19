@@ -11,7 +11,7 @@
 <p align="center"><img src="https://i.imgur.com/4PIyjbx.png" alt="screenshot"></p>
 
 # Extensions
-- [Firefox](https://addons.mozilla.org/pt-BR/firefox/addon/netflix-list-button-exporter/)
+- [Firefox](https://addons.mozilla.org/pt-BR/firefox/addon/netflix-list-exporter/)
 - [Chrome](https://github.com/daltonmenezes/netflix-list-exporter/blob/master/CHROME_INSTRUCTIONS.md)
 
 # License
