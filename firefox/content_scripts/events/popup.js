@@ -1,7 +1,7 @@
-const popupEvent = () => {
+const popupEvent = message => {
   const popup = document.querySelector('nle-popup')
 
-  popup.textContent = browser.i18n.getMessage('copiedMessage')
+  popup.textContent = browser.i18n.getMessage(message)
   popup.classList.remove('hide-popup')
       
   setTimeout(() => {

@@ -13,5 +13,8 @@
   },
   "copiedMessage": {
     "message": "Copiado para a área de transferência!"
+  },
+  "errorMessage": {
+    "message": "Erro, por favor, tente novamente ou entre em contato com o desenvolvedor sobre isso."
   }
 }

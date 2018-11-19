@@ -13,5 +13,8 @@
   },
   "copiedMessage": {
     "message": "Copied to clipboard area!"
+  },
+  "errorMessage": {
+    "message": "Error, please try again or contact the developer about it."
   }
 }
