@@ -5,6 +5,9 @@
   "copyThisListButtonLabel": {
     "message": "Copiar esta lista"
   },
+  "copyThumbsUpListButtonLabel": {
+    "message": "Copiar a lista 👍 "
+  },
   "copiedMessage": {
     "message": "Copiado para a área de transferência!"
   }

@@ -13,9 +13,11 @@
       ],
       "js": [
         "content_scripts/creators/my-list-creator.js",
+        "content_scripts/creators/thumbs-list-creator.js",
         "content_scripts/list-handler.js",
         "content_scripts/ui/button-render.js",
         "content_scripts/ui/buttons/my-list.js",
+        "content_scripts/ui/buttons/thumbs-up-list.js",
         "content_scripts/ui/popup-render.js",
         "content_scripts/events/scroll.js",
         "content_scripts/events/click.js",
