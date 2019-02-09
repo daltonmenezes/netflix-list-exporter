@@ -13,8 +13,7 @@
 # Extensions
 - [Firefox](https://addons.mozilla.org/pt-BR/firefox/addon/netflix-list-exporter/)
 - [Chrome](https://github.com/daltonmenezes/netflix-list-exporter/blob/master/CHROME_INSTRUCTIONS.md)
+- [Opera](https://addons.opera.com/pt-br/extensions/details/netflix-list-exporter)
 
 # License
 [MIT License](https://github.com/daltonmenezes/netflix-list-exporter/blob/master/LICENSE)
-
-
