@@ -8,7 +8,7 @@
 </p>
 
 # Preview
-<p align="center"><img src="https://i.imgur.com/4PIyjbx.png" alt="screenshot"></p>
+<p align="center"><img src="https://i.imgur.com/TyGuuoY.png" alt="screenshot"></p>
 
 # Extensions
 - [Firefox](https://addons.mozilla.org/pt-BR/firefox/addon/netflix-list-exporter/)
