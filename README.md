@@ -8,10 +8,9 @@
 <img src="https://img.shields.io/badge/version-v2.0.1-red.svg" alt="version"/>
 </p>
 
-# Preview
 <p align="center"><img src="https://i.imgur.com/TyGuuoY.png" alt="screenshot"></p>
 
-# Extensions
+# Extension
 - [Firefox](https://addons.mozilla.org/pt-BR/firefox/addon/netflix-list-exporter/)
 - [Chrome](https://github.com/daltonmenezes/netflix-list-exporter/blob/master/CHROME_INSTRUCTIONS.md)
 - [Opera](https://addons.opera.com/pt-br/extensions/details/netflix-list-exporter)
