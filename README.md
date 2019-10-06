@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="#" id="logo">
+  <a href="#logo" id="logo">
     <img src="https://i.imgur.com/pTgqeTX.png" alt="Netflix List Exporter logo" />
   </a>
 </p>
@@ -29,7 +29,7 @@
 </p>
 
 <p align="center">
-  <a href="#" id="screenshot">
+  <a href="#screenshot" id="screenshot">
     <img src="https://i.imgur.com/TyGuuoY.png" alt="screenshot">
   </a>
 </p>
