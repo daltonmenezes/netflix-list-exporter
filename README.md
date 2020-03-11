@@ -11,6 +11,9 @@
   <br><br>
   <a href="https://www.producthunt.com/posts/netflix-list-exporter">
     <img src="https://img.shields.io/badge/vote%20on%20-product hunt-informational?style=flat-square&color=red" alt="vote on product hunt"/>
+    <a href="https://issuehunt.io/r/daltonmenezes/netflix-list-exporter">
+    <img src="https://img.shields.io/badge/fund%20issues%20on-issuehunt-informational?style=flat-square&color=red" alt="fund issues on issuehunt" />
+  </a>  
   <a href="https://www.patreon.com/daltonmenezes">
     <img src="https://img.shields.io/badge/support%20on-patreon-informational?style=flat-square&color=red" alt="support me on patreon" />
   </a>
