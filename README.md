@@ -24,7 +24,7 @@
     <img src="https://img.shields.io/badge/support%20on-paypal-informational?style=flat-square&color=red" alt="support me on paypal" />
   </a>
   <a href="https://github.com/daltonmenezes/netflix-list-exporter/releases/latest">
-    <img src="https://img.shields.io/badge/version%20-v2.0.1-informational?style=flat-square&color=red" alt="version" />
+    <img src="https://img.shields.io/badge/version%20-v2.0.2-informational?style=flat-square&color=red" alt="version" />
   </a>  
   <a href="https://github.com/daltonmenezes/netflix-list-exporter/blob/master/LICENSE">
     <img src="https://img.shields.io/badge/license%20-MIT-informational?style=flat-square&color=red" alt="license MIT" />
