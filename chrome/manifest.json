@@ -1,7 +1,7 @@
 {
   "name": "Netflix List Exporter",
   "description": "__MSG_extensionDescription__",
-  "version": "2.0.1",
+  "version": "2.0.2",
   "homepage_url": "https://github.com/daltonmenezes/netflix-list-exporter",
   "manifest_version": 2,
   "content_scripts": [
@@ -42,6 +42,7 @@
       "96": "icons/96.png"
   },
   "permissions": [
+    "*://*.netflix.com/*",
     "activeTab",
     "clipboardWrite"
   ],
