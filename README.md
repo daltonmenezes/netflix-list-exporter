@@ -39,7 +39,7 @@
   
 # Installation
 <a href="https://addons.mozilla.org/pt-BR/firefox/addon/netflix-list-exporter/"><img src="https://i.imgur.com/imhunnJ.png" alt="firefox icon" width="50"/></a>
-<a href="https://github.com/daltonmenezes/netflix-list-exporter/blob/master/CHROME_INSTRUCTIONS.md"><img src="https://i.imgur.com/lMue0Hb.png" alt="chrome icon"  width="50"/></a>
+<a href="https://chrome.google.com/webstore/detail/netflix-list-exporter/mkhmjimpmgfjejbemjbimepeifijlagc"><img src="https://i.imgur.com/lMue0Hb.png" alt="chrome icon"  width="50"/></a>
 <a href="https://addons.opera.com/pt-br/extensions/details/netflix-list-exporter"><img src="https://i.imgur.com/t9OCThZ.png" alt="opera icon" width="50"/></a>
 
 # License
