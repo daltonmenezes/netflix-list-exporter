@@ -27,7 +27,7 @@ const thumbsListCreator = (thumb, list = '', currentPageNumber = 0) => {
               : ''
           )
           currentPageNumber++
-          list = list.replace(/\n$/, "").split("\n").sort().join("\n");
+          list = list.replace(/\n$/, "").split("\n").sort(Intl.Collator().compare).join("\n");
           return thumbsListCreator(thumb, list, currentPageNumber)
       }
       return list
