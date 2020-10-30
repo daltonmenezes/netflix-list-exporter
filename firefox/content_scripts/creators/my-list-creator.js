@@ -3,7 +3,7 @@ const myListCreator = () => {
 
   document
     .querySelectorAll('.slider-refocus')
-    .forEach(name => name.getAttribute('aria-label') !== null ? list += `${name.getAttribute('aria-label')} \n` : '')
+    .forEach(name => name.getAttribute('aria-label') !== null ? list += `${name.getAttribute('aria-label')}\n` : '')
  
   return list  
 }
