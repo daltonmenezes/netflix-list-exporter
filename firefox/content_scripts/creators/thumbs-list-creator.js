@@ -23,7 +23,7 @@ const thumbsListCreator = (thumb, list = '', currentPageNumber = 0) => {
       if (data.ratingItems.length > 0) {
           data.ratingItems.map(data =>
             rate[thumb](data) 
-              ? list += data.title + '\n' 
+              ? list += '\n' + data.title + '\n' 
               : ''
           )
           currentPageNumber++
