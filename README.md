@@ -65,6 +65,9 @@
     </td> 
   </tr>
  </table>
+ 
+# How to use
+At [netflix.com/browse/my-list](https://netflix.com/browse/my-list) page, you will see three new buttons to handle the list you want to export from Netflix. Choose one and wait for the message stating that copy to the clipboard is done. Then press **CTRL + V** or **COMMAND + V** to paste the list wherever you want.
 
 # Contributing
 Contributions are always welcome.
