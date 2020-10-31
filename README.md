@@ -38,10 +38,37 @@
 </p>
   
 # Installation
-<a href="https://addons.mozilla.org/pt-BR/firefox/addon/netflix-list-exporter/"><img src="https://i.imgur.com/imhunnJ.png" alt="firefox icon" width="50"/></a>
-<a href="https://chrome.google.com/webstore/detail/netflix-list-exporter/mkhmjimpmgfjejbemjbimepeifijlagc"><img src="https://i.imgur.com/lMue0Hb.png" alt="chrome icon"  width="50"/></a>
-<a href="https://addons.opera.com/pt-br/extensions/details/netflix-list-exporter"><img src="https://i.imgur.com/t9OCThZ.png" alt="opera icon" width="50"/></a>
-
+<table>
+  <tr>
+    <td valign="top">
+     <p align="center">
+      <a href="https://addons.mozilla.org/pt-BR/firefox/addon/netflix-list-exporter/">
+        <img src="https://i.imgur.com/imhunnJ.png" alt="firefox icon" width="100"/>
+      </a>
+      <br/><br/>
+      <span>Firefox</span>
+      </p>
+    </td>
+    <td valign="top">
+      <p align="center">
+        <a href="https://chrome.google.com/webstore/detail/netflix-list-exporter/mkhmjimpmgfjejbemjbimepeifijlagc">
+          <img src="https://i.imgur.com/lMue0Hb.png" alt="chrome icon"  width="100"/>
+        </a>
+       <br/><br/>
+        <span>Chrome</span>
+      </p>
+    </td>
+    <td valign="top">
+      <p align="center">
+        <a href="https://addons.opera.com/pt-br/extensions/details/netflix-list-exporter">
+          <img src="https://i.imgur.com/t9OCThZ.png" alt="opera icon" width="100"/>
+        </a>
+       <br/><br/>
+        <span>Opera</span>
+      </p>
+    </td> 
+  </tr>
+ </table>
 
 # Contributing
 Contributions are always welcome.
