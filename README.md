@@ -7,7 +7,7 @@
 <h1 align="center">Netflix List Exporter</h1>
 
 <p align="center">
-  :dizzy: An Extension to export your lists from Netflix to Clipboard area and share with your friends.
+  :dizzy: An Extension to export your lists from Netflix to Clipboard area and share with your friends.
   <br><br>
   <a href="https://www.producthunt.com/posts/netflix-list-exporter">
     <img src="https://img.shields.io/badge/vote%20on%20-product hunt-informational?style=flat-square&color=c21313" alt="vote on product hunt"/>
