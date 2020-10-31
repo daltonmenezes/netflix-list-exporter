@@ -28,7 +28,7 @@
 
 <p align="center">
   <a href="#screenshot" id="screenshot">
-    <img src="https://i.imgur.com/TyGuuoY.png" alt="screenshot">
+    <img src="https://github.com/daltonmenezes/assets/blob/master/images/netflix-list-exporter/screenshot.png?raw=true" alt="screenshot">
   </a>
 </p>
   
