@@ -44,7 +44,7 @@ Contributions are always welcome.
 There's a bunch of ways you can contribute to this project, like by:
 - :electric_plug: Working on new features (ask first, please)
 - :wave: Requesting a feature
-- :beetle: Reporting a bug
+- :beetle: Reporting or fixing a bug
 - :page_facing_up: Improving this documentation
 - :rotating_light: Sharing this project and recommending it to your friends
 - :dollar: Supporting this project on Patreon
