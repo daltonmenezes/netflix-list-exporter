@@ -56,15 +56,6 @@
     </td>
     <td valign="top">
       <p align="center">
-        <a href="https://addons.opera.com/pt-br/extensions/details/netflix-list-exporter">
-          <img src="https://i.imgur.com/t9OCThZ.png" alt="opera icon" width="100"/>
-        </a>
-       <br/><br/>
-        <span>Opera</span>
-      </p>
-    </td>
-    <td valign="top">
-      <p align="center">
         <a href="#">
           <img src="https://github.com/daltonmenezes/assets/blob/master/images/icons/edge.png?raw=true" alt="edge icon" width="100"/>
         </a>
@@ -72,6 +63,15 @@
         <span>Edge</span>
       </p>
     </td> 
+    <td valign="top">
+      <p align="center">
+        <a href="https://addons.opera.com/pt-br/extensions/details/netflix-list-exporter">
+          <img src="https://i.imgur.com/t9OCThZ.png" alt="opera icon" width="100"/>
+        </a>
+       <br/><br/>
+        <span>Opera</span>
+      </p>
+    </td>
   </tr>
  </table>
  
