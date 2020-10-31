@@ -1,9 +1,10 @@
 .nle-button {
+  margin-top: .5rem;
   color: white;
   vertical-align: super;
-  padding: 5px;
+  padding: 10px;
   cursor: pointer;
-  transition: background-color 0.4s ease-in-out;
+  transition: all 0.4s ease;
 }
 
 .nle-button:nth-child(odd) {
@@ -11,9 +12,19 @@
 }
 
 .nle-button:nth-child(even) {
-  background-color: #dd0202;
+  background-color: #292929;
 }
 
 .nle-button:nth-child(odd):hover, .nle-button:nth-child(even):hover {
-  background-color: #690303;
+  background-color: #c21313;
+}
+
+.nle-button:nth-child(2) {
+  border-top-left-radius: 6px;
+  border-bottom-left-radius: 6px;
+}
+
+.nle-button:nth-child(4) {
+  border-top-right-radius: 6px;
+  border-bottom-right-radius: 6px;
 }

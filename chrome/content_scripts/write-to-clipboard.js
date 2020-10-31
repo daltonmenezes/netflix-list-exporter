@@ -1,5 +1,6 @@
 const writeToClipboard = data => {
   navigator.clipboard.writeText(data)
-    .then(() => popupEvent('copiedMessage'))
-    .catch(err => popupEvent('errorMessage'))
+    .then(() => copyingEvent('copyingMessage', false))
+    .then(() => popupEvent('copiedMessage', 'success'))
+    .catch(err => popupEvent('errorMessage', 'failure'))
 }
