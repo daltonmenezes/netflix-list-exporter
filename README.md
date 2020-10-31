@@ -9,6 +9,10 @@
 <p align="center">
   :dizzy: An Extension to export your lists from Netflix to Clipboard area and share with your friends.
   <br><br>
+  
+   <a href="https://www.patreon.com/daltonmenezes">
+    <img alt="support on patreon" src="https://img.shields.io/badge/support%20on-patreon-1C1E26?style=for-the-badge&labelColor=1C1E26&color=c21313" />
+  </a>
 
   <a href="https://www.producthunt.com/posts/netflix-list-exporter">
     <img alt="vote on product hunt" src="https://img.shields.io/badge/vote%20on-producthunt-1C1E26?style=for-the-badge&labelColor=1C1E26&color=c21313" />
@@ -16,10 +20,6 @@
 
   <a href="https://issuehunt.io/r/daltonmenezes/netflix-list-exporter">
     <img alt="fund issues on issuehunt" src="https://img.shields.io/badge/fund%20issues%20on-issuehunt-1C1E26?style=for-the-badge&labelColor=1C1E26&color=c21313" />
-  </a>
-
-  <a href="https://www.patreon.com/daltonmenezes">
-    <img alt="support on patreon" src="https://img.shields.io/badge/support%20on-patreon-1C1E26?style=for-the-badge&labelColor=1C1E26&color=c21313" />
   </a>
 
   <a href="https://github.com/daltonmenezes/netflix-list-exporter/releases/latest">
