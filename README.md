@@ -62,6 +62,15 @@
        <br/><br/>
         <span>Opera</span>
       </p>
+    </td>
+    <td valign="top">
+      <p align="center">
+        <a href="#">
+          <img src="https://github.com/daltonmenezes/assets/blob/master/images/icons/edge.png?raw=true" alt="edge icon" width="100"/>
+        </a>
+       <br/><br/>
+        <span>Edge</span>
+      </p>
     </td> 
   </tr>
  </table>
