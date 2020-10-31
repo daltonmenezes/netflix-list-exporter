@@ -24,10 +24,6 @@
 
   <a href="https://github.com/daltonmenezes/netflix-list-exporter/releases/latest">
     <img alt="version" src="https://img.shields.io/github/v/release/daltonmenezes/netflix-list-exporter?style=for-the-badge&labelColor=1C1E26&color=c21313" />
-  </a>  
-
-  <a href="https://github.com/daltonmenezes/netflix-list-exporter/blob/master/LICENSE">
-  <img alt="license MIT" src="https://img.shields.io/badge/license-mit-1C1E26?style=for-the-badge&labelColor=1C1E26&color=c21313" />
   </a>
 </p>
 
