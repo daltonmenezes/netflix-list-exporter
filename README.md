@@ -1,6 +1,6 @@
 <p align="center">
   <a href="#logo" id="logo">
-    <img src="https://i.imgur.com/pTgqeTX.png" alt="Netflix List Exporter logo" />
+    <img src="https://github.com/daltonmenezes/assets/blob/master/images/icons/netflix-list-exporter-logo.png?raw=true" alt="Netflix List Exporter logo" />
   </a>
 </p>
 
@@ -10,24 +10,19 @@
   :dizzy: An Extension to export your lists from Netflix to Clipboard area and share with your friends.
   <br><br>
   <a href="https://www.producthunt.com/posts/netflix-list-exporter">
-    <img src="https://img.shields.io/badge/vote%20on%20-product hunt-informational?style=flat-square&color=red" alt="vote on product hunt"/>
+    <img src="https://img.shields.io/badge/vote%20on%20-product hunt-informational?style=flat-square&color=c21313" alt="vote on product hunt"/>
     <a href="https://issuehunt.io/r/daltonmenezes/netflix-list-exporter">
-    <img src="https://img.shields.io/badge/fund%20issues%20on-issuehunt-informational?style=flat-square&color=red" alt="fund issues on issuehunt" />
+    <img src="https://img.shields.io/badge/fund%20issues%20on-issuehunt-informational?style=flat-square&color=c21313" alt="fund issues on issuehunt" />
   </a>  
   <a href="https://www.patreon.com/daltonmenezes">
-    <img src="https://img.shields.io/badge/support%20on-patreon-informational?style=flat-square&color=red" alt="support me on patreon" />
+    <img src="https://img.shields.io/badge/support%20on-patreon-informational?style=flat-square&color=c21313" alt="support me on patreon" />
   </a>
-  <a href="https://www.padrim.com.br/daltonmenezes">
-    <img src="https://img.shields.io/badge/apoie%20no-padrim-informational?style=flat-square&color=red" alt="me apoie no padrim" />
-  </a>  
-  <a href="https://paypal.me/daltonmenezes">
-    <img src="https://img.shields.io/badge/support%20on-paypal-informational?style=flat-square&color=red" alt="support me on paypal" />
-  </a>
+
   <a href="https://github.com/daltonmenezes/netflix-list-exporter/releases/latest">
-    <img src="https://img.shields.io/badge/version%20-v2.0.2-informational?style=flat-square&color=red" alt="version" />
+    <img src="https://img.shields.io/badge/version%20-v2.2.2-informational?style=flat-square&color=c21313" alt="version" />
   </a>  
   <a href="https://github.com/daltonmenezes/netflix-list-exporter/blob/master/LICENSE">
-    <img src="https://img.shields.io/badge/license%20-MIT-informational?style=flat-square&color=red" alt="license MIT" />
+    <img src="https://img.shields.io/badge/license%20-MIT-informational?style=flat-square&color=c21313" alt="license MIT" />
   </a>
 </p>
 
@@ -42,5 +37,20 @@
 <a href="https://chrome.google.com/webstore/detail/netflix-list-exporter/mkhmjimpmgfjejbemjbimepeifijlagc"><img src="https://i.imgur.com/lMue0Hb.png" alt="chrome icon"  width="50"/></a>
 <a href="https://addons.opera.com/pt-br/extensions/details/netflix-list-exporter"><img src="https://i.imgur.com/t9OCThZ.png" alt="opera icon" width="50"/></a>
 
+
+# Contributing
+Contributions are always welcome.
+
+There's a bunch of ways you can contribute to this project, like by:
+- :electric_plug: Working on new features (ask first, please)
+- :wave: Requesting a feature
+- :beetle: Reporting a bug
+- :page_facing_up: Improving this documentation
+- :rotating_light: Sharing this project and recommending it to your friends
+- :dollar: Supporting this project on Patreon
+- :bug: Funding an issue on IssueHunt
+- :star2: Dropping a star on this repository
+- :thumbsup: Voting on ProductHunt
+
 # License
-[MIT License](https://github.com/daltonmenezes/netflix-list-exporter/blob/master/LICENSE)
+[MIT © Dalton Menezes](https://github.com/daltonmenezes/netflix-list-exporter/blob/master/LICENSE)
