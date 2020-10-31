@@ -1,6 +1,6 @@
 <p align="center">
   <a href="#logo" id="logo">
-    <img src="https://github.com/daltonmenezes/assets/blob/master/images/icons/netflix-list-exporter-logo.png?raw=true" alt="Netflix List Exporter logo" />
+    <img src="https://github.com/daltonmenezes/assets/blob/master/images/icons/netflix-list-exporter-logo2x.png?raw=true" alt="Netflix List Exporter logo" width="200" height="200" />
   </a>
 </p>
 
