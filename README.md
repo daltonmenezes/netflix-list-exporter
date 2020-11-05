@@ -56,7 +56,7 @@
     </td>
     <td valign="top">
       <p align="center">
-        <a href="#">
+        <a href="https://microsoftedge.microsoft.com/addons/detail/netflix-list-exporter/emfcadhohobddccfnjpcajjpkogpilim">
           <img src="https://github.com/daltonmenezes/assets/blob/master/images/icons/edge.png?raw=true" alt="edge icon" width="100"/>
         </a>
        <br/><br/>
