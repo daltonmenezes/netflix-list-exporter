@@ -1,9 +1,25 @@
 nle-popup {
-  margin-left: 10px;
-  background-color: #484848;
-  padding: 5px;
+  margin: .5rem 0 0 1rem;
+  padding: 10px;
+  border-radius: 6px;
+  min-width: max-content;
   vertical-align: super;  
   transition: all 0.8s ease-in-out;
+}
+
+.default {
+  color: white;
+  background-color: #292929;
+}
+
+.success {
+  color: black;
+  background-color: #67d467;
+}
+
+.failure {
+  color: white;
+  background-color: #c21313;
 }
 
 .hide-popup {

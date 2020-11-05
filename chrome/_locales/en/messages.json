@@ -16,5 +16,8 @@
   },
   "errorMessage": {
     "message": "Error, please try again or contact the developer about it."
+  },
+  "copyingMessage": {
+    "message": "Copying..."
   }
 }

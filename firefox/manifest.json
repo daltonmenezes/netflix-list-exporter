@@ -1,7 +1,7 @@
 {
   "name": "Netflix List Exporter",
   "description": "__MSG_extensionDescription__",
-  "version": "2.0.2",
+  "version": "2.2.2",
   "homepage_url": "https://github.com/daltonmenezes/netflix-list-exporter",
   "manifest_version": 2,
   "content_scripts": [
@@ -20,6 +20,7 @@
         "content_scripts/ui/buttons/thumbs-up-list.js",
         "content_scripts/ui/buttons/thumbs-down-list.js",
         "content_scripts/ui/popup-render.js",
+        "content_scripts/events/copying.js",
         "content_scripts/events/scroll.js",
         "content_scripts/events/click.js",
         "content_scripts/events/popup.js",
