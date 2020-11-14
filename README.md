@@ -18,7 +18,7 @@
     <img alt="vote on product hunt" src="https://img.shields.io/badge/vote%20on-producthunt-1C1E26?style=for-the-badge&labelColor=1C1E26&color=c21313" />
   </a>  
 
-  <a href="https://issuehunt.io/r/daltonmenezes/netflix-list-exporter">
+  <a href="https://issuehunt.io/r/daltonmenezes/netflix-list-exporter?tab=idle">
     <img alt="fund issues on issuehunt" src="https://img.shields.io/badge/fund%20issues%20on-issuehunt-1C1E26?style=for-the-badge&labelColor=1C1E26&color=c21313" />
   </a>
 
